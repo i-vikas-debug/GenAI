@@ -10,3 +10,4 @@ langchain_Groq
 bs4
 Chromadb
 langchain_chroma
+pypdf
